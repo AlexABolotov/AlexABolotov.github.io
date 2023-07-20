@@ -1,19 +1,28 @@
 Origin: DeGirum
 Label: DeGirum
 Codename: ORCA
-Date: Sat, 15 Jul 2023 00:29:59 UTC
-Architectures:
+Date: Thu, 20 Jul 2023 01:36:41 UTC
+Architectures: amd64 arm64
 Components: main
 Description: ORCA driver repo
 MD5Sum:
- df00d5b70669c3daa9bf875a114a374a 982 main/source/Sources
- 3ce907b48d809176cb339e65916fd04c 551 main/source/Sources.gz
- a12fe539e91dabb16c552ed48f9b30dc 98 main/source/Release
+ 0e69a3543dc7e28c135a011c7187845c 518 main/binary-amd64/Packages
+ a86ecf840a89a61fde828ddd4967021e 376 main/binary-amd64/Packages.gz
+ af83cc51d0d570ad069a99b88753d9df 97 main/binary-amd64/Release
+ 0e69a3543dc7e28c135a011c7187845c 518 main/binary-arm64/Packages
+ a86ecf840a89a61fde828ddd4967021e 376 main/binary-arm64/Packages.gz
+ e5d7fb1472bffd46228a57e40bff283c 97 main/binary-arm64/Release
 SHA1:
- 0a7c9f6af9185ecc2bc1542d3862a3576db57b98 982 main/source/Sources
- 5fcfc29a249c1a71ec707b0c346ebab647c5c6e8 551 main/source/Sources.gz
- 18611bc06b8bd96df2a430c3b6081ab3f84d0e62 98 main/source/Release
+ 4c90d7d0954c4096ae1f2ff70b14fc08ebdf80cb 518 main/binary-amd64/Packages
+ 9138f5aa163ad83427b3f958286f05605103e75f 376 main/binary-amd64/Packages.gz
+ fe516cee3abf3de3d9e5a11c3c22c9982f6c2a8d 97 main/binary-amd64/Release
+ 4c90d7d0954c4096ae1f2ff70b14fc08ebdf80cb 518 main/binary-arm64/Packages
+ 9138f5aa163ad83427b3f958286f05605103e75f 376 main/binary-arm64/Packages.gz
+ 61394bddb19e124c88b16bc509f02d0929113abe 97 main/binary-arm64/Release
 SHA256:
- 0644f1e442c2512b9bbc017d47624be145ce66cf9cd609f8f45961310d3577eb 982 main/source/Sources
- 4e810de55afc70767d6e1a0b7274b1c65f6181da27e952bf9e643b94bbcad0ef 551 main/source/Sources.gz
- 360e3d2e357b7ad4dbf681bcf28cfa4863e7b652f40d7141a0d8cb4b7a76ba4b 98 main/source/Release
+ 4fb642d88edb942d127c2d9c37b68a96c35131b6564f1ffa3f166b5a7c635401 518 main/binary-amd64/Packages
+ a232c8944ab5ab775a6a05f960dc09b5b49da761da6c1579b0b51d9cf659e289 376 main/binary-amd64/Packages.gz
+ 93f997d4b955c365aafdc59110754b5f10b9fa65d0d7c548760d5db7cf2d2b78 97 main/binary-amd64/Release
+ 4fb642d88edb942d127c2d9c37b68a96c35131b6564f1ffa3f166b5a7c635401 518 main/binary-arm64/Packages
+ a232c8944ab5ab775a6a05f960dc09b5b49da761da6c1579b0b51d9cf659e289 376 main/binary-arm64/Packages.gz
+ 0330c2a5af85d3a5aa554195d916b9007a21d51ea6d44a9155e94454ed43b0b3 97 main/binary-arm64/Release
