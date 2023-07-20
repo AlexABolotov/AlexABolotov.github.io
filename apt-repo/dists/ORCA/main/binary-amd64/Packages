@@ -8,10 +8,10 @@ Homepage: https://degirum.com
 Priority: optional
 Section: utils
 Filename: pool/main/o/orca-driver-dkms/orca-driver-dkms_0.5.0.0_all.deb
-Size: 16446
-SHA256: f13da5e603391adac6e92d2636937855e1a13f9cc23a3f9ffccab35b8b3149c4
-SHA1: f4d9a966915cd1de2aab19f4282b7a20d83dbace
-MD5sum: 22cd8964f6e099aeb94d11c68d2f5198
+Size: 16448
+SHA256: c57b00ae39b68f48655a9f812f6ae42b1c35f96394b4d5ffa37ab0d60c97e9ea
+SHA1: b54a9251e3aa5eac586fffb7fb2a7f4bae1bd9f9
+MD5sum: 79bf344736a9e7020dfe86576df858b1
 Description: ORCA kernel driver
  Kernel mode driver for ORCA AI accelerator.
 
