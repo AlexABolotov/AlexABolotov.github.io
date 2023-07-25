@@ -1,5 +1,5 @@
-Package: orca-driver-dkms
-Version: 0.5.0.0
+Package: cdapci-dkms
+Version: 0.5
 Architecture: all
 Maintainer: Alexander Bolotov <bolotov@degirum.com>
 Installed-Size: 78
@@ -7,11 +7,11 @@ Depends: dkms (>= 2.1.0.0)
 Homepage: https://degirum.com
 Priority: optional
 Section: utils
-Filename: pool/main/o/orca-driver-dkms/orca-driver-dkms_0.5.0.0_all.deb
-Size: 16450
-SHA256: 56ec607c1409a12ede5201bd4d11c4a0b47fb8037cbee290f01c8d97caeccabc
-SHA1: 197e0c10cc08a15b7c83b38588aea6d84341a873
-MD5sum: ae3019a07fd290dfbe8d70787cbbb801
+Filename: pool/main/c/cdapci-dkms/cdapci-dkms_0.5_all.deb
+Size: 16440
+SHA256: b22520987bf4f9aa4af839dae3cca30d28ba6b9fc157e77265501223bd74c274
+SHA1: 14ef820e682064d499934608efda724f47ef9568
+MD5sum: eeceb286a6dff158cabcd92b0d2a3855
 Description: ORCA kernel driver
  Kernel mode driver for ORCA AI accelerator.
 
