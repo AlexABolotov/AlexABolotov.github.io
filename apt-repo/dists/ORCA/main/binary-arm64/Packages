@@ -8,10 +8,10 @@ Homepage: https://degirum.com
 Priority: optional
 Section: utils
 Filename: pool/main/c/cdapci-dkms/cdapci-dkms_0.5_all.deb
-Size: 16440
-SHA256: b22520987bf4f9aa4af839dae3cca30d28ba6b9fc157e77265501223bd74c274
-SHA1: 14ef820e682064d499934608efda724f47ef9568
-MD5sum: eeceb286a6dff158cabcd92b0d2a3855
+Size: 16434
+SHA256: e9a8cba3005224d030d4f2c08ef2a9c3c00427d77af2dc8e5f10863b04a8aeb6
+SHA1: bfce82c455be2df01cba9948ca30276c932061b2
+MD5sum: c5a8e279ea8eae9f8d47c9a50631a9fc
 Description: ORCA kernel driver
  Kernel mode driver for ORCA AI accelerator.
 
