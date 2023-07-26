@@ -2,16 +2,16 @@ Package: cdapci-dkms
 Version: 0.5
 Architecture: all
 Maintainer: Alexander Bolotov <bolotov@degirum.com>
-Installed-Size: 78
+Installed-Size: 77
 Depends: dkms (>= 2.1.0.0)
 Homepage: https://degirum.com
 Priority: optional
 Section: utils
 Filename: pool/main/c/cdapci-dkms/cdapci-dkms_0.5_all.deb
-Size: 16434
-SHA256: e9a8cba3005224d030d4f2c08ef2a9c3c00427d77af2dc8e5f10863b04a8aeb6
-SHA1: bfce82c455be2df01cba9948ca30276c932061b2
-MD5sum: c5a8e279ea8eae9f8d47c9a50631a9fc
+Size: 16362
+SHA256: 5b5f40813aeee7438bf0eb029dd044b23ccba34b82ebc496c696f09222c02103
+SHA1: e007bb9f7cd4b7e26bd98bb31df31f97cefe4f60
+MD5sum: 78382d3c0e36b21aee1675ff225bf780
 Description: ORCA kernel driver
  Kernel mode driver for ORCA AI accelerator.
 
